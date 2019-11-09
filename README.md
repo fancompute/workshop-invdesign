@@ -14,17 +14,17 @@ You will also need a python environment with the necessary packages installed. T
 
 **Note:** you will want to download the distribution for a 3.X version of Python (e.g. 3.6 or 3.7). 
 
-By default, the Anaconda distribution includes many of the python packages that we require for this workshop. However, there are a few additional packages we will need to manually install, as described in the next sections of this guide.
+By default, the Anaconda distribution includes many of the python packages that we require for this workshop. However, there are a few additional packages we will need to install manually, as described in the next sections of this guide.
 
 ## Installing HIPS autograd
 
-[HIPS autograd](https://github.com/HIPS/autograd) is an automatic differentiation framework with a Numpy-like API. We rely autograd for flexible gradient computation in our inverse design studies. To install autograd, execute the following command in your conda environment:
+[HIPS autograd](https://github.com/HIPS/autograd) is an automatic differentiation framework with a Numpy-like API. We rely on autograd for flexible gradient computation in our inverse design studies. To install autograd, execute the following command in your conda environment:
 
     pip install autograd
 
 ## Installing pymkl
 
-pymkl provides an interface to the [PARDISO](https://www.pardiso-project.org/) sparse solver which we use to accelerate our simulations. We have observed approximately a 10X speed up in certain cases compared to the standard SciPy sparse linear solver routine. To install pymkl, execute the following command in your conda environment:
+pymkl provides an interface to the [PARDISO](https://www.pardiso-project.org/) sparse solver which we use to accelerate our simulations. We have observed approximately a 10X speed up in certain cases compared to the standard SciPy sparse linear solver routines. To install pymkl, execute the following command in your conda environment:
 
     pip install pymkl
 
