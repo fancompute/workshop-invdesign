@@ -6,13 +6,15 @@ This repository contains the code and notebooks for the workshop on the inverse 
 
 To get started using these course materials, you can transfer them to your local computing environment either by downloading them or git cloning this repository. To download a zip archive of these materials, simply click the green "Clone or download" button on the top right corner of the GitHub repository page and then selecting "Download ZIP" from the drop down menu.
 
-If you have `git` installed, you can enter the following command in a terminal to clone the repository for the materials to your computer:
+If you have `git` installed, you can enter the following command in a terminal to clone the repository:
 
     git clone https://github.com/fancompute/workshop-invdesign.git
 
 You will also need a python environment with the necessary packages installed. There are several ways to setup a python environment, but we recommend using Anaconda. You can download the Anaconda installer for your operating system from: <https://www.anaconda.com/distribution/>. 
 
-**Note:** you will want to install a 3.X version of Python (e.g. 3.6 or 3.7). By default, the Anaconda distribution includes many of the python packages that we require for this workshop. However, there are a few additional packages we will need to manually install, as described in the next sections of this guide.
+**Note:** you will want to download the distribution for a 3.X version of Python (e.g. 3.6 or 3.7). 
+
+By default, the Anaconda distribution includes many of the python packages that we require for this workshop. However, there are a few additional packages we will need to manually install, as described in the next sections of this guide.
 
 ## Installing HIPS autograd
 
