@@ -10,9 +10,9 @@ If you have `git` installed, you can enter the following command in a terminal t
 
     git clone https://github.com/fancompute/workshop-invdesign.git
 
-You will also need a python environment with the necessary packages installed in your local environment. There are several ways to setup a python environment, but we recommend using Anaconda. You can download the Anaconda installer for your operating system from: <https://www.anaconda.com/distribution/>. 
+You will also need a python environment with the necessary packages installed. There are several ways to setup a python environment, but we recommend using Anaconda. You can download the Anaconda installer for your operating system from: <https://www.anaconda.com/distribution/>. 
 
-**Note:** you will want to install a 3.X version of Python (e.g. 3.6 or 3.7). By default, the Anaconda distribution includes many of the python packages that we require for this workshop. However, there are a few additional package we will need to manually install, as described in the next sections of this guide.
+**Note:** you will want to install a 3.X version of Python (e.g. 3.6 or 3.7). By default, the Anaconda distribution includes many of the python packages that we require for this workshop. However, there are a few additional packages we will need to manually install, as described in the next sections of this guide.
 
 ## Installing HIPS autograd
 
@@ -35,3 +35,11 @@ Ceviche is our research group's finite difference frequency domain (FDFD) and ti
 ## Using the materials
 
 The materials in this repository are organized into [Jupyter](https://jupyter.org/) notebooks. You can interact with them through the `jupyter lab` interface, which is a web-based user interface that runs from your local computing environment.
+
+## References
+
+For more information and further reading on the concepts covered in this workshop, see our group's papers.
+
+ - T. W. Hughes, I. A. D. Williamson, M. Minkov, and S. Fan, "Forward-mode Differentiation of Maxwell’s Equations," ACS Photonics, Oct. 2019. [doi:10.1021/acsphotonics.9b01238](https://doi.org/10.1021/acsphotonics.9b01238)
+
+ - T. W. Hughes*, M. Minkov*, I. A. D. Williamson, and S. Fan, "Adjoint Method and Inverse Design for Nonlinear Nanophotonic Devices," ACS Photonics, Dec. 2018. [doi:10.1021/acsphotonics.8b01522](https://doi.org/10.1021/acsphotonics.8b01522)
