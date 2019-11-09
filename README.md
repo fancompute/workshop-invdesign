@@ -24,7 +24,7 @@ By default, the Anaconda distribution includes many of the python packages that 
 
 ## Installing pymkl
 
-pymkl provides an interface to the [PARDISO](https://www.pardiso-project.org/) sparse solver which we use to accelerate our simulations. To install pymkl, execute the following command in your conda environment:
+pymkl provides an interface to the [PARDISO](https://www.pardiso-project.org/) sparse solver which we use to accelerate our simulations. We have observed approximately a 10X speed up in certain cases compared to the standard SciPy sparse linear solver routine. To install pymkl, execute the following command in your conda environment:
 
     pip install pymkl
 
