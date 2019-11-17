@@ -1,3 +1,6 @@
+
+![](img/optimization.gif)
+
 # Optical Inverse Design with Automatic Differentiation
 
 This repository contains the code and notebooks for the workshop on the inverse design of optical devices with automatic differentiation.
