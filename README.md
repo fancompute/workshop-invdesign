@@ -6,11 +6,11 @@ This repository contains the code and notebooks for the workshop on the inverse 
 
 ## Contents
 
-| Notebook                                                             | Description                                                                              |
-| -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| [01_First_simulation.ipynb](01_First_simulation.ipynb)               | Covers the basics of setting up a finite difference frequency domain (FDFD) simulation   |
-| [02_Invdes_intro.ipynb](02_Invdes_intro.ipynb)                       | Deals with setting up and performing an inverse design optimization of a mode converter  |
-| [03_Invdes_parameterization.ipynb](03_Invdes_parameterization.ipynb) | Expands on Notebook 02 to introduce parameterization strategies                          |
+| Notebook | Description  |
+| -------- |------------- |
+| [01_First_simulation.ipynb](01_First_simulation.ipynb) | Covers the basics of setting up a finite difference frequency domain (FDFD) simulation |
+| [02_Invdes_intro.ipynb](02_Invdes_intro.ipynb) | Deals with setting up and performing an inverse design optimization of a mode converter |
+| [03_Invdes_parameterization.ipynb](03_Invdes_parameterization.ipynb) | Expands on Notebook 02 to introduce parameterization strategies |
 
 The materials in this repository are organized into several [Jupyter](https://jupyter.org/) notebooks. You can interact with them through the `jupyter lab` interface, which is a web-based user interface that runs from your local computing environment. They are numbered and can be followed in order.
 
