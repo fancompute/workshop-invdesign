@@ -14,6 +14,8 @@ This repository contains the code and notebooks for the workshop on the inverse 
 
 The materials in this repository are organized into several [Jupyter](https://jupyter.org/) notebooks. You can interact with them through the `jupyter lab` interface, which is a web-based user interface that runs from your local computing environment. They are numbered and can be followed in order if you are just getting started with optical simulation and optimization.
 
+This course material was developed by [Ian Williamson](https://www.ianwilliamson.org/) and [Momchil Minkov](https://momchilmm.github.io/), who are both postdocs in Shanhui Fan's [research group](https://web.stanford.edu/group/fan/). Feel free to get in touch or open an issue if you have questions or suggestions for improvements.
+
 ## Getting started
 
 To get started using these course materials, you can transfer them to your local computing environment either by downloading them or git cloning this repository. To download a zip archive of these materials, simply click the green "Clone or download" button on the top right corner of the GitHub repository page and then selecting "Download ZIP" from the drop down menu.
