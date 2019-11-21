@@ -6,12 +6,12 @@ This repository contains the code and notebooks for the workshop on the inverse 
 
 ## Contents
 
-| Notebook | Description  |
-| -------- |------------- |
-| [01_First_simulation.ipynb](01_First_simulation.ipynb) | Covers the basics of setting up a finite difference frequency domain (FDFD) simulation |
-| [02_Invdes_intro.ipynb](02_Invdes_intro.ipynb) | Deals with setting up and performing an inverse design optimization of a mode converter |
-| [03_Invdes_parameterization.ipynb](03_Invdes_parameterization.ipynb) | Expands on Notebook 02 to introduce parameterization strategies |
-| [04_Invdes_wdm_scheduling.ipynb](04_Invdes_wdm_scheduling.ipynb) | (**beta**) Explores inverse design applied to a  wavelength multiplexer and also demonstrates optimizer scheduling of the binarization parameter |
+| Notebook | NB Viewer | Description  |
+| -------- | --------- | ------------ |
+| [01_First_simulation](01_First_simulation.ipynb) | [View](https://nbviewer.jupyter.org/github/fancompute/workshop-invdesign/blob/master/01_First_simulation.ipynb) | Covers the basics of setting up a finite difference frequency domain (FDFD) simulation |
+| [02_Invdes_intro](02_Invdes_intro.ipynb) | [View](https://nbviewer.jupyter.org/github/fancompute/workshop-invdesign/blob/master/02_Invdes_intro.ipynb) | Deals with setting up and performing an inverse design optimization of a mode converter |
+| [03_Invdes_parameterization](03_Invdes_parameterization.ipynb) | [View](https://nbviewer.jupyter.org/github/fancompute/workshop-invdesign/blob/master/03_Invdes_parameterization.ipynb) | Expands on Notebook 02 to introduce parameterization strategies |
+| [04_Invdes_wdm_scheduling](04_Invdes_wdm_scheduling.ipynb) | [View](https://nbviewer.jupyter.org/github/fancompute/workshop-invdesign/blob/master/04_Invdes_wdm_scheduling.ipynb) | (**beta**) Explores inverse design applied to a  wavelength multiplexer and also demonstrates optimizer scheduling of the binarization parameter |
 
 The materials in this repository are organized into several [Jupyter](https://jupyter.org/) notebooks. You can interact with them through the `jupyter lab` interface, which is a web-based user interface that runs from your local computing environment. They are numbered and can be followed in order if you are just getting started with optical simulation and optimization.
 
