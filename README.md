@@ -13,9 +13,9 @@ This repository contains the code and notebooks for the workshop on the inverse 
 | [03_Invdes_parameterization](03_Invdes_parameterization.ipynb) | [View](https://nbviewer.jupyter.org/github/fancompute/workshop-invdesign/blob/master/03_Invdes_parameterization.ipynb) | Expands on Notebook 02 to introduce parameterization strategies |
 | [04_Invdes_wdm_scheduling](04_Invdes_wdm_scheduling.ipynb) | [View](https://nbviewer.jupyter.org/github/fancompute/workshop-invdesign/blob/master/04_Invdes_wdm_scheduling.ipynb) | (**beta**) Explores inverse design applied to a  wavelength multiplexer and also demonstrates optimizer scheduling of the binarization parameter |
 
-The materials in this repository are organized into several [Jupyter](https://jupyter.org/) notebooks. You can interact with them through the `jupyter lab` interface, which is a web-based user interface that runs from your local computing environment. They are numbered and can be followed in order if you are just getting started with optical simulation and optimization.
+The contents of this repository  are organized into several [Jupyter](https://jupyter.org/) notebooks. You can view them by clicking the links in the table above or you can interact with them through the `jupyter lab` interface, which is a web-based user interface that runs from your local computing environment. Details on setting up Jupyter and other necessary libraries are given below. The notebooks are numbered and can be followed in order if you have very little experience with optical simulation and optimization.
 
-This course material was developed by [Ian Williamson](https://www.ianwilliamson.org/) and [Momchil Minkov](https://momchilmm.github.io/), who are both postdocs in Shanhui Fan's [research group](https://web.stanford.edu/group/fan/). Feel free to get in touch or open an issue if you have questions or suggestions for improvements.
+The materials were developed by [Ian Williamson](https://www.ianwilliamson.org/) and [Momchil Minkov](https://momchilmm.github.io/), who are both postdocs in Shanhui Fan's [research group](https://web.stanford.edu/group/fan/). Feel free to get in touch or open an issue if you have questions or suggestions for improvements.
 
 ## Getting started
 
@@ -33,7 +33,7 @@ By default, the Anaconda distribution includes many of the python packages that 
 
 ## Installing ceviche
 
-Ceviche is our research group's finite difference frequency domain (FDFD) and time domain (FDTD) package. This is the primary package we will use to simulate and optimize optical devices. In case you are wondering, the word "ceviche" refers to [a seafood dish from Peru](https://en.wikipedia.org/wiki/Ceviche) that [Tyler Hughes](http://twhughes.github.io/) enjoys.
+[Ceviche](https://github.com/fancompute/ceviche) is our research group's finite difference frequency domain (FDFD) and time domain (FDTD) package. This is the primary package we will use to simulate and optimize optical devices. In case you are wondering, the word "ceviche" refers to [a seafood dish from Peru](https://en.wikipedia.org/wiki/Ceviche) that [Tyler Hughes](http://twhughes.github.io/) enjoys.
 
 The source code for ceviche is freely available on GitHub at <https://github.com/fancompute/ceviche>. You can install ceviche by git cloning the repository into your local computing environment and adding its location to your `PYTHONPATH` environment variable. However, we recommend installing ceviche via pip, by executing the following command:
 
