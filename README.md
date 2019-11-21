@@ -1,6 +1,6 @@
 # Optical Inverse Design with Automatic Differentiation
 
-This repository contains the code and notebooks for the workshop on the inverse design of optical devices with automatic differentiation. Below is the animation of such an optimization applied to an optical splitter.
+This repository contains the code and notebooks for the workshop on the inverse design of optical devices with automatic differentiation. Below is the animation of such an optimization applied to an optical wavelength multiplexer.
 
 ![](img/optimization.gif)
 
