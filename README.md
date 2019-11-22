@@ -6,8 +6,10 @@ This repository contains the code and notebooks for the workshop on the inverse 
 
 ## Contents
 
-| Notebook | NB Viewer | Description  |
-| -------- | --------- | ------------ |
+### Notebooks
+
+| Name | NB Viewer | Description  |
+| ---- | --------- | ------------ |
 | [01_First_simulation](01_First_simulation.ipynb) | [View](https://nbviewer.jupyter.org/github/fancompute/workshop-invdesign/blob/master/01_First_simulation.ipynb) | Covers the basics of setting up a finite difference frequency domain (FDFD) simulation |
 | [02_Invdes_intro](02_Invdes_intro.ipynb) | [View](https://nbviewer.jupyter.org/github/fancompute/workshop-invdesign/blob/master/02_Invdes_intro.ipynb) | Deals with setting up and performing an inverse design optimization of a mode converter |
 | [03_Invdes_parameterization](03_Invdes_parameterization.ipynb) | [View](https://nbviewer.jupyter.org/github/fancompute/workshop-invdesign/blob/master/03_Invdes_parameterization.ipynb) | Expands on Notebook 02 to introduce parameterization strategies |
@@ -16,6 +18,10 @@ This repository contains the code and notebooks for the workshop on the inverse 
 The contents of this repository  are organized into several [Jupyter](https://jupyter.org/) notebooks. You can view them by clicking the links in the table above or you can interact with them through the `jupyter lab` interface, which is a web-based user interface that runs from your local computing environment. Details on setting up Jupyter and other necessary libraries are given below. The notebooks are numbered and can be followed in order if you have very little experience with optical simulation and optimization.
 
 The materials were developed by [Ian Williamson](https://www.ianwilliamson.org/) and [Momchil Minkov](https://momchilmm.github.io/), who are both postdocs in Shanhui Fan's [research group](https://web.stanford.edu/group/fan/). Feel free to get in touch or open an issue if you have questions or suggestions for improvements.
+
+### Slides
+
+ - [Slides from 11-21-19](slides/slides_11_21_19.pdf)
 
 ## Getting started
 
