@@ -4,6 +4,8 @@ This repository contains the code and notebooks for the workshop on the inverse 
 
 ![](img/optimization.gif)
 
+![](img/model_flow.png)
+
 ## Contents
 
 ### Notebooks
