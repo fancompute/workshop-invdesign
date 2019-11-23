@@ -4,6 +4,8 @@ This repository contains the code and notebooks for the workshop on the inverse 
 
 ![](img/optimization.gif)
 
+Automatic differentiation allows one to flexibly define models for optimizing optical devices. Both parameterizations and objective functions can be easily defined using sequences of composable operations, like the example shown below.
+
 ![](img/model_flow.png)
 
 ## Contents
