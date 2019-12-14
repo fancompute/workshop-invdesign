@@ -1,5 +1,7 @@
 .ipynb_checkpoints
 
+tmp/*
+
 .idea/*
 
 *.png
